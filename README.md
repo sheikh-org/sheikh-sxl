@@ -3,3 +3,4 @@ natively supports Interleaved Thinking, enabling it to reason between each round
 An intelligent local-first coding
 > An intelligent local-first coding model for autonomous development — built for speed, sandbox safety, and reasoning accuracy
 an Agentic Model with exceptional Tool Use capabilities.
+MIT © 2025 Likhon Sheikh
